@@ -1,0 +1,682 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples/final_final/final
+vadd32
+Z0 !s110 1592723771
+!i10b 1
+!s100 HDHTZ54Tm3]ZL<mMW0NhB2
+I9Fz03Vg8S7S2]Kh?[7H=30
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/User/Desktop/Final/final
+w1592721786
+8C:/Users/User/Desktop/Final/final/add32.v
+FC:/Users/User/Desktop/Final/final/add32.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1592723771.000000
+!s107 C:/Users/User/Desktop/Final/final/add32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/add32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_ctl
+R0
+!i10b 1
+!s100 hDJcLG1P1`eSSjg?37_om3
+I>G>1E<0D4`mKg@O_A27cG2
+R1
+R2
+w1592708346
+8C:/Users/User/Desktop/Final/final/alu_ctl.v
+FC:/Users/User/Desktop/Final/final/alu_ctl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/alu_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vAnd
+R0
+!i10b 1
+!s100 h;0LkUTH=GFQOo8_z^Da@3
+IZS^ILeK5OE?HjPEdgRkdK2
+R1
+R2
+w1592027234
+8C:/Users/User/Desktop/Final/final/And.v
+FC:/Users/User/Desktop/Final/final/And.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/And.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/And.v|
+!s101 -O0
+!i113 1
+R5
+n@and
+vBarrelShifter
+R0
+!i10b 1
+!s100 7:jo9lb[on7mf@^7Xdc4b0
+Ic?Vi7IcCHG1::nHRY01DR3
+R1
+R2
+w1592027130
+8C:/Users/User/Desktop/Final/final/BarrelShifter.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter
+vBarrelShifter1
+R0
+!i10b 1
+!s100 mIS>G7OPB0GB=kQ30jllz3
+IO?SDf=eL>hI02C:Sd=JCa1
+R1
+R2
+w1592027140
+8C:/Users/User/Desktop/Final/final/BarrelShifter1.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter1.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter1
+vBarrelShifter16
+Z6 !s110 1592723772
+!i10b 1
+!s100 JiLNAHCQc6_o[8d]:I3Z12
+IME1TZ_7G_hS17i8jm2M=S2
+R1
+R2
+w1592027168
+8C:/Users/User/Desktop/Final/final/BarrelShifter16.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter16.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1592723772.000000
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter16.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter16.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter16
+vBarrelShifter2
+R6
+!i10b 1
+!s100 Eldg2b1<`T9]DAhG<elHG3
+I_D<SVXVn20lOXQ>_eCzK`3
+R1
+R2
+w1592027148
+8C:/Users/User/Desktop/Final/final/BarrelShifter2.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter2.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter2
+vBarrelShifter4
+R6
+!i10b 1
+!s100 m>IlFCoOVN]5Z?:W@c>Fg1
+IHa1:jA6jgiXCe1lb]ecd71
+R1
+R2
+w1592027154
+8C:/Users/User/Desktop/Final/final/BarrelShifter4.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter4.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter4.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter4
+vBarrelShifter8
+R6
+!i10b 1
+!s100 BOg1n5Q7YZPkgYe;N;PCD3
+ITz6a^nfR2DYZXf^UE48ZO1
+R1
+R2
+w1592027162
+8C:/Users/User/Desktop/Final/final/BarrelShifter8.v
+FC:/Users/User/Desktop/Final/final/BarrelShifter8.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/BarrelShifter8.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/BarrelShifter8.v|
+!s101 -O0
+!i113 1
+R5
+n@barrel@shifter8
+vbit1ALU
+R0
+!i10b 1
+!s100 <LG<<=docY`ocYR@6;0oQ2
+I7N56Ah65iiOSVZGZ35D1B2
+R1
+R2
+w1592027180
+8C:/Users/User/Desktop/Final/final/1bitALU.v
+FC:/Users/User/Desktop/Final/final/1bitALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/1bitALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/1bitALU.v|
+!s101 -O0
+!i113 1
+R5
+nbit1@a@l@u
+vbit31ALU
+R0
+!i10b 1
+!s100 z7NQ:W6Gd82?X<=[hT50o1
+IdY=@b3;U:d`4EQToKE;a`2
+R1
+R2
+w1592027186
+8C:/Users/User/Desktop/Final/final/31bitALU.v
+FC:/Users/User/Desktop/Final/final/31bitALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/31bitALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/31bitALU.v|
+!s101 -O0
+!i113 1
+R5
+nbit31@a@l@u
+vbit32ALU
+R0
+!i10b 1
+!s100 L<BjchWEDaVjA4aQRDVO12
+IoWT0JmiJ1;^>[]5f<_FCX2
+R1
+R2
+w1592709474
+8C:/Users/User/Desktop/Final/final/32bitALU.v
+FC:/Users/User/Desktop/Final/final/32bitALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Final/final/32bitALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/32bitALU.v|
+!s101 -O0
+!i113 1
+R5
+nbit32@a@l@u
+vcontrol_single
+R6
+!i10b 1
+!s100 IWL5ndA[HSj6Wg?M>bSPA2
+ITP=J7TS=1i?1F5RkZ^l8_3
+R1
+R2
+w1592709306
+8C:/Users/User/Desktop/Final/final/control_single.v
+FC:/Users/User/Desktop/Final/final/control_single.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/control_single.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/control_single.v|
+!s101 -O0
+!i113 1
+R5
+vDiv
+R6
+!i10b 1
+!s100 <D@fB2=^0K[2EEEnkYc[f3
+Iilgi]UZajWnX[:5bNJ:O?1
+R1
+R2
+w1592721852
+8C:/Users/User/Desktop/Final/final/Div.v
+FC:/Users/User/Desktop/Final/final/Div.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/Div.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/Div.v|
+!s101 -O0
+!i113 1
+R5
+n@div
+vFullAdder
+R6
+!i10b 1
+!s100 nW?PoMNJSdK[[WoEfN^Sc3
+I=?KeB`FmeJm;eYG@oAo6I2
+R1
+R2
+w1592027224
+8C:/Users/User/Desktop/Final/final/FA.v
+FC:/Users/User/Desktop/Final/final/FA.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/FA.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/FA.v|
+!s101 -O0
+!i113 1
+R5
+n@full@adder
+vHilo
+Z8 !s110 1592723773
+!i10b 1
+!s100 EbDjdf]_Wm^fmL;hCL>JU0
+IS4U8A9QbGmTzRz:C_EahO1
+R1
+R2
+w1592721869
+8C:/Users/User/Desktop/Final/final/Hilo.v
+FC:/Users/User/Desktop/Final/final/Hilo.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/Final/final/Hilo.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/Hilo.v|
+!s101 -O0
+!i113 1
+R5
+n@hilo
+vmemory
+R8
+!i10b 1
+!s100 L<Z5b3c<o1@NK9[z<z4R52
+IW3bP57TY;K_<MRe^42R9G1
+R1
+R2
+w1592580769
+8C:/Users/User/Desktop/Final/final/memory.v
+FC:/Users/User/Desktop/Final/final/memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1592723773.000000
+!s107 C:/Users/User/Desktop/Final/final/memory.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/memory.v|
+!s101 -O0
+!i113 1
+R5
+vmips_pipeline
+R8
+!i10b 1
+!s100 560T>S9ge>OSW0gN_5Kco1
+IVQNa<i[TMBNEXIbXhn2=22
+R1
+R2
+w1592721902
+8C:/Users/User/Desktop/Final/final/mips_pipeline.v
+FC:/Users/User/Desktop/Final/final/mips_pipeline.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/mips_pipeline.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/mips_pipeline.v|
+!s101 -O0
+!i113 1
+R5
+vmux2
+R8
+!i10b 1
+!s100 ?gj2T1:hGEEoRk?NR9lIg2
+I`6>eUbP5LXAK0PMVHd@OW3
+R1
+R2
+Z10 w1592023952
+8C:/Users/User/Desktop/Final/final/mux2.v
+FC:/Users/User/Desktop/Final/final/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/mux2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/mux2.v|
+!s101 -O0
+!i113 1
+R5
+vmux2X1
+R8
+!i10b 1
+!s100 ;Cn]E1gLFYD[8_D6lRZ[T2
+I4h6hXk4BXAjd=gkKFNZNS2
+R1
+R2
+w1592034629
+8C:/Users/User/Desktop/Final/final/MUX2_1.v
+FC:/Users/User/Desktop/Final/final/MUX2_1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/MUX2_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/MUX2_1.v|
+!s101 -O0
+!i113 1
+R5
+nmux2@x1
+vnop
+!s110 1592724024
+!i10b 1
+!s100 6INNMcC`771bz<mbVdC0z1
+IFRM2XM8V7l9f]aBlO0YdA1
+R1
+R2
+w1592724021
+8C:/Users/User/Desktop/Final/final/nop.v
+FC:/Users/User/Desktop/Final/final/nop.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1592724024.000000
+!s107 C:/Users/User/Desktop/Final/final/nop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/nop.v|
+!s101 -O0
+!i113 1
+R5
+vOr
+R8
+!i10b 1
+!s100 <8Ln2P@>I5hVNmmeEjTS[3
+I2bYFOoniCQE@5gA`9^WeW1
+R1
+R2
+w1592027244
+8C:/Users/User/Desktop/Final/final/Or.v
+FC:/Users/User/Desktop/Final/final/Or.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/Or.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/Or.v|
+!s101 -O0
+!i113 1
+R5
+n@or
+vreg32
+Z11 !s110 1592723774
+!i10b 1
+!s100 [77;6Z@aP>DAH]maM>K`K1
+IN]2B^g?fEQVC`2EDFXn@^0
+R1
+R2
+w1592579773
+8C:/Users/User/Desktop/Final/final/reg32.v
+FC:/Users/User/Desktop/Final/final/reg32.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1592723774.000000
+!s107 C:/Users/User/Desktop/Final/final/reg32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg32.v|
+!s101 -O0
+!i113 1
+R5
+vreg_EXMEM
+R8
+!i10b 1
+!s100 ]<W]]Gk79=oSRO`R0RJ>Q1
+I96fh6fbFDom^^Um3B`iAD1
+R1
+R2
+w1592450704
+8C:/Users/User/Desktop/Final/final/reg_EXMEM.v
+FC:/Users/User/Desktop/Final/final/reg_EXMEM.v
+L0 4
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/reg_EXMEM.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg_EXMEM.v|
+!s101 -O0
+!i113 1
+R5
+nreg_@e@x@m@e@m
+vreg_file
+R8
+!i10b 1
+!s100 io6HB?U5PT3=UMK`Q6NmJ3
+I5]BTUYCL4EAH[96DEj2<^2
+R1
+R2
+R10
+8C:/Users/User/Desktop/Final/final/reg_file.v
+FC:/Users/User/Desktop/Final/final/reg_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/Final/final/reg_file.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg_file.v|
+!s101 -O0
+!i113 1
+R5
+vreg_IDEX
+R11
+!i10b 1
+!s100 U4SJjnP?U9j]z9d4Af:me1
+IJDAKAi@jVLQ@3eDoHf?_C0
+R1
+R2
+w1592449809
+8C:/Users/User/Desktop/Final/final/reg_IDEX.v
+FC:/Users/User/Desktop/Final/final/reg_IDEX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/User/Desktop/Final/final/reg_IDEX.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg_IDEX.v|
+!s101 -O0
+!i113 1
+R5
+nreg_@i@d@e@x
+vreg_IFID
+R11
+!i10b 1
+!s100 lZ4D3K[nZzZg?MGA8V?b62
+IIfDd^GiXY6Fi:V1bWUaV`2
+R1
+R2
+R10
+8C:/Users/User/Desktop/Final/final/reg_IFID.v
+FC:/Users/User/Desktop/Final/final/reg_IFID.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/User/Desktop/Final/final/reg_IFID.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg_IFID.v|
+!s101 -O0
+!i113 1
+R5
+nreg_@i@f@i@d
+vreg_MEMWB
+R11
+!i10b 1
+!s100 [`UlnJ[<oG7970=>5JDkC3
+I>IlGU_fADCS3U^DnSX5]K3
+R1
+R2
+R10
+8C:/Users/User/Desktop/Final/final/reg_MEMWB.v
+FC:/Users/User/Desktop/Final/final/reg_MEMWB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/User/Desktop/Final/final/reg_MEMWB.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/reg_MEMWB.v|
+!s101 -O0
+!i113 1
+R5
+nreg_@m@e@m@w@b
+vsign_extend
+R11
+!i10b 1
+!s100 >f9b5m`MmQHcDQc;B_S:A1
+IVfdIlFaGBiC9TNEZfzb>k2
+R1
+R2
+R10
+8C:/Users/User/Desktop/Final/final/sign extend.v
+FC:/Users/User/Desktop/Final/final/sign extend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/User/Desktop/Final/final/sign extend.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/sign extend.v|
+!s101 -O0
+!i113 1
+R5
+vSlt
+R11
+!i10b 1
+!s100 D?KVG@CaAOaWSQ;Ig`6J=1
+IP;H;MjoT>24_dc^mi@0Dz2
+R1
+R2
+w1592027256
+8C:/Users/User/Desktop/Final/final/Slt.v
+FC:/Users/User/Desktop/Final/final/Slt.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/User/Desktop/Final/final/Slt.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/Slt.v|
+!s101 -O0
+!i113 1
+R5
+n@slt
+vtb_PipeLine
+!s110 1592724052
+!i10b 1
+!s100 @SX8[Yl9ViJ?:5KR39QDL1
+I6z5O0`R6^Mlo9m<WeLaL82
+R1
+R2
+w1592724050
+8C:/Users/User/Desktop/Final/final/tb_PipeLine.v
+FC:/Users/User/Desktop/Final/final/tb_PipeLine.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1592724052.000000
+!s107 C:/Users/User/Desktop/Final/final/tb_PipeLine.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/Final/final/tb_PipeLine.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@pipe@line

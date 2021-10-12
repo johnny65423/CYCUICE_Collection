@@ -1,0 +1,225 @@
+C:/Users/JohnnyHsu/Desktop/final/reg_IFID.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/reg_IFID.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_IFID
+
+Top level modules:
+	reg_IFID
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/reg_EXMEM.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/reg_EXMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_EXMEM
+
+Top level modules:
+	reg_EXMEM
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/1bitALU.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/1bitALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit1ALU
+
+Top level modules:
+	bit1ALU
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/control_single.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/control_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/alu.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/Slt.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/Slt.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Slt
+
+Top level modules:
+	Slt
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/And.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/And.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module And
+
+Top level modules:
+	And
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/reg32.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/reg32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/mux2.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/nop.v {1 {vlog -work work -stats=none {C:\Users\JohnnyHsu\Desktop\final\nop.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module nop
+
+Top level modules:
+	nop
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/reg_MEMWB.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/reg_MEMWB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_MEMWB
+
+Top level modules:
+	reg_MEMWB
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/reg_file.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/reg_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/add32.v {1 {vlog -work work -stats=none {C:\Users\JohnnyHsu\Desktop\final\add32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter1.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter1
+
+Top level modules:
+	BarrelShifter1
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/FA.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/FA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter2.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter2
+
+Top level modules:
+	BarrelShifter2
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/memory.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/Or.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/Or.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Or
+
+Top level modules:
+	Or
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter4.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter4
+
+Top level modules:
+	BarrelShifter4
+
+} {} {}} {C:/Users/JohnnyHsu/Desktop/final/sign extend.v} {1 {vlog -work work -stats=none {C:/Users/JohnnyHsu/Desktop/final/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/tb_PipeLine.v {1 {vlog -work work -stats=none {C:\Users\JohnnyHsu\Desktop\final\tb_PipeLine.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_PipeLine
+
+Top level modules:
+	tb_PipeLine
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/Div.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/Div.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Div
+
+Top level modules:
+	Div
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/MUX2_1.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/MUX2_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/Hilo.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/Hilo.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Hilo
+
+Top level modules:
+	Hilo
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter16.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter16
+
+Top level modules:
+	BarrelShifter16
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/alu_ctl.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/alu_ctl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter8.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter8.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter8
+
+Top level modules:
+	BarrelShifter8
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/BarrelShifter.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/BarrelShifter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BarrelShifter
+
+Top level modules:
+	BarrelShifter
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/31bitALU.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/31bitALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit31ALU
+
+Top level modules:
+	bit31ALU
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/mips_pipeline.v {1 {vlog -work work -stats=none {C:\Users\JohnnyHsu\Desktop\final\mips_pipeline.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips_pipeline
+
+Top level modules:
+	mips_pipeline
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/32bitALU.v {1 {vlog -work work -stats=none C:/Users/JohnnyHsu/Desktop/final/32bitALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit32ALU
+
+Top level modules:
+	bit32ALU
+
+} {} {}} C:/Users/JohnnyHsu/Desktop/final/reg_IDEX.v {1 {vlog -work work -stats=none {C:\Users\JohnnyHsu\Desktop\final\reg_IDEX.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_IDEX
+
+Top level modules:
+	reg_IDEX
+
+} {} {}}
